@@ -8,10 +8,10 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 212666666666;
+global.pairingNumber = 212612164010;
 global.owner = [
-  ['212717457920', 'noureddine Ouafy', true],
-  ['', 'Owner 2', true],
+  ['212612164010', 'noureddine Ouafy', true],
+  ['212644580742', 'Owner 2', true],
 ];
 
 global.namebot = 'gaff ai';
